@@ -78,7 +78,7 @@ temp/
 .obsidian/
 
 # 자동 생성 파일 / Auto-generated files
-볼트구조.md
+# 볼트구조.md - 이제 버전 관리에 포함 (프로젝트 문서화용)
 
 # 설정 파일 (민감한 정보 포함 가능성)
 # Configuration files (may contain sensitive info)
