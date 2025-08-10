@@ -1,0 +1,12 @@
+# 옵시디언 노트 관리를 위한 필수 패키지들
+markdown==3.5.1
+python-frontmatter==1.0.0
+pyyaml==6.0.1
+pathlib2==2.3.7
+watchdog==3.0.0
+click==8.1.7
+rich==13.7.0
+jinja2==3.1.2
+python-dateutil==2.8.2
+pandas==2.1.4
+numpy==1.24.3 

@@ -1,0 +1,204 @@
+[
+  {
+    "timestamp": "2025-07-01 01:20:47",
+    "command": "status",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_notes": 357,
+      "para_folders": 3,
+      "folder_stats": {
+        "projects": 76,
+        "areas": 76,
+        "resources": 147
+      }
+    },
+    "duration": 0.021017074584960938,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:21:16",
+    "command": "analyze",
+    "status": "success",
+    "summary": {
+      "analyzed_folder": "all",
+      "total_notes": 357,
+      "total_words": 108575,
+      "notes_with_tags": 266,
+      "notes_with_frontmatter": 283,
+      "average_word_count": 304,
+      "analysis_errors": 25,
+      "top_tags": {
+        "리서치": 101,
+        "복습필요": 81,
+        "감정기록": 40,
+        "루틴분석": 33,
+        "집중패턴": 30,
+        "업무체크": 29,
+        "챗봇": 17,
+        "Supabase": 14,
+        "김엄마": 13,
+        "자기돌봄": 12
+      }
+    },
+    "duration": 0.19292378425598145,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:30:05",
+    "command": "generate_tree",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_folders": 70,
+      "total_files": 366,
+      "md_files": 351,
+      "tree_lines": 427
+    },
+    "duration": 0.03243303298950195,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:31:42",
+    "command": "generate_tree",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_folders": 70,
+      "total_files": 367,
+      "md_files": 352,
+      "tree_lines": 428
+    },
+    "duration": 0.019319772720336914,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:31:42",
+    "command": "start_watching",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "tree_file": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain/볼트구조.md"
+    },
+    "duration": 0.1,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:31:45",
+    "command": "stop_watching",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain"
+    },
+    "duration": 0.1,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:36:44",
+    "command": "generate_tree",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_folders": 70,
+      "total_files": 366,
+      "md_files": 351,
+      "tree_lines": 427
+    },
+    "duration": 0.017462968826293945,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:37:30",
+    "command": "generate_tree",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_folders": 70,
+      "total_files": 366,
+      "md_files": 351,
+      "tree_lines": 427
+    },
+    "duration": 0.0176389217376709,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:37:30",
+    "command": "start_watching",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "tree_file": "/Users/alliej/Dev/myobsidian_mng/볼트구조.md"
+    },
+    "duration": 0.1,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-01 01:37:32",
+    "command": "stop_watching",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain"
+    },
+    "duration": 0.1,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-02 21:00:53",
+    "command": "generate_tree",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_folders": 72,
+      "total_files": 375,
+      "md_files": 360,
+      "tree_lines": 438
+    },
+    "duration": 0.04848837852478027,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-02 21:01:16",
+    "command": "generate_tree",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_folders": 72,
+      "total_files": 375,
+      "md_files": 360,
+      "tree_lines": 438
+    },
+    "duration": 0.01908421516418457,
+    "error": null
+  },
+  {
+    "timestamp": "2025-08-10 16:54:20",
+    "command": "status",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_notes": 411,
+      "para_folders": 3,
+      "folder_stats": {
+        "projects": 89,
+        "areas": 79,
+        "resources": 148
+      }
+    },
+    "duration": 0.08848786354064941,
+    "error": null
+  },
+  {
+    "timestamp": "2025-08-10 17:08:12",
+    "command": "generate_tree",
+    "status": "success",
+    "summary": {
+      "vault_path": "/Users/alliej/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second Brain",
+      "total_folders": 74,
+      "total_files": 426,
+      "md_files": 404,
+      "tree_lines": 484
+    },
+    "duration": 0.05675697326660156,
+    "error": null
+  }
+]
